@@ -1,0 +1,16 @@
+{
+  "name": "first_terminal_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countAllFromTown.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moch": "^0.0.1",
+    "mocha": "^10.2.0"
+  }
+}
